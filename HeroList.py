@@ -1,0 +1,17 @@
+listOfHeroes = \
+ ('Abaddon', 'Alchemist', 'Ancient_Apparition', 'Anti-Mage', 'Arc_Warden', 'Axe', 'Bane' , 'Batrider',
+     'Beastmaster', 'Bloodseeker', 'Bounty_Hunter', 'Brewmaster', 'Bristleback', 'Broodmother', 'Centaur_Warrunner',
+     'Chaos_Knight', 'Chen', 'Clinkz', 'Clockwerk', 'Crystal_Maiden', 'Dark_Seer', 'Dark_Willow', 'Dawnbreaker',
+     'Dazzle', 'Death_Prophet', 'Disruptor', 'Doom', 'Dragon_Knight', 'Drow_Ranger', 'Earth_Spirit',
+     'Earthshaker', 'Elder_Titan', 'Ember_Spirit', 'Enchantress', 'Enigma', 'Faceless_Void', 'Grimstroke',
+     'Gyrocopter', 'Hoodwink', 'Huskar', 'Invoker', 'Io', 'Jakiro', 'Juggernaut', 'Keeper_of_the_Light',
+     'Kunkka', 'Legion_Commander', 'Leshrac', 'Lich', 'Lifestealer', 'Lina', 'Lion', 'Lone_Druid', 'Luna',
+     'Lycan', 'Magnus', 'Mars', 'Medusa', 'Meepo', 'Mirana', 'Monkey_King', 'Morphling', 'Naga_Siren',
+     "Nature's_Prophet", 'Necrophos', 'Night_Stalker', 'Nyx_Assasin', 'Ogre_Magi', 'Omniknight',
+     'Oracle', 'Outworld_Destroyer', 'Pangolier', 'Phantom_Assassin', 'Phantom_Lancer', 'Phoenix',
+     'Puck', 'Pudge', 'Pugna', 'Queen_of_Pain', 'Razor', 'Riki', 'Rubick', 'Sand_King', 'Shadow_Demon',
+     'Silencer', 'Skywrath_Mage', 'Slardar', 'Slark', 'Snapfire', 'Sniper', 'Spectre', 'Spirit_Breaker',
+     'Storm_Spirit', 'Sven', 'Techies', 'Templar_Assassin', 'Terrorblade', 'Tidehunter', 'Timbersaw',
+     'Tinker', 'Tiny', 'Treant_Protector', 'Troll_Warlord', 'Tusk', 'Underlord', 'Undying', 'Ursa',
+     'Vengeful_Spirit', 'Venomancer', 'Viper', 'Visage', 'Void_Spirit', 'Warlock', 'Weaver',
+     'Windranger', 'Winter_Wyvern', 'Witch_Doctor', 'Wraith_King', 'Zeus')
